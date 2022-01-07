@@ -1,0 +1,79 @@
+body {
+	background: #121212 !important;
+	color: #fff !important;
+	font-family: "Montserrat", sans-serif !important;
+	overflow: hidden;
+}
+
+.pfp {
+	background-image: url("../pvaZtpR.png");
+	width: 128px;
+	height: 128px;
+	border-radius: 50%;
+	background-size: cover;
+}
+
+.content {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.icon-pad {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.icon-pad-start {
+	padding-left: 0px;
+	padding-right: 15px;
+}
+
+#status {
+	color: #d4d4d4;
+}
+
+.online {
+	color: #abffbf;
+}
+
+.mobile {
+	color: #f2a6ab;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.icon-link {
+	color: #fff;
+	text-decoration: none;
+}
+
+.icon-link:hover {
+	color: #fff;
+	text-decoration: none;
+}
+
+footer {
+	display: flex;
+	position: absolute;
+	bottom: 15px;
+	width: 100%;
+	left: 0;
+}
+
+.sp-icon {
+	color: #1fd760;
+}
+
+.noAStyle {
+	text-decoration: none;
+	color: #fff;
+}
+
+.noAStyle:hover {
+	text-decoration: none;
+	color: #fff;
+}
