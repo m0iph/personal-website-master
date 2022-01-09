@@ -77,3 +77,10 @@ footer {
 	text-decoration: none;
 	color: #fff;
 }
+
+.pfp {
+	background-image: url("");
+	width: 128px;
+	height: 128px;
+	border-radius: 50%;
+	background-size: cover;
