@@ -6,7 +6,7 @@ body {
 }
 
 .pfp {
-	background-image: url("../pfp.jpg");
+	background-image: url("../pfp.png");
 	width: 128px;
 	height: 128px;
 	border-radius: 50%;
