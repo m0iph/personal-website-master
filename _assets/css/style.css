@@ -7,8 +7,8 @@ body {
 
 .pfp {
 	background-image: url("../pfp.png");
-	width: 128px;
-	height: 128px;
+	width: 130px;
+	height: 130px;
 	border-radius: 50%;
 	background-size: cover;
 }
