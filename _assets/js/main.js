@@ -1,5 +1,5 @@
 function gS() {
-	$.getJSON("https://api.lanyard.rest/v1/users/730087630662008873", data => {
+	$.getJSON("https://api.lanyard.rest/v1/users/942073146041843712", data => {
 		data = data.data;
 		if (data.listening_to_spotify) {
 			$("#spotify").html(
